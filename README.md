@@ -16,7 +16,7 @@ To install the project, clone the repository and open the `index.html` file in y
 
 bash
 Clone the repository
-git clone https://github.com/aashishbharti04/calculator-web-app.git
+git clone https://github.com/aashishbharti04/codsoft-calculator.git
 
  Navigate into the project directory
 cd calculator-web-app
